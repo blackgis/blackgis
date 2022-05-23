@@ -6,7 +6,7 @@ GIS Specialist
 
 Geoinformation, Programming, Spatial Databases, Network, Frontend and Backend are my main daily business - its the combination that makes the mix
 
-* 🌍  I'm based in Austria
+* 🌍  I'm based in Austria 🇦🇹
 * 🧠  I'm learning Python, Linux
 * ⚡  OSM, Wikipedia and GIS Stuff are interessting as well and contribute a lot there as well
 
