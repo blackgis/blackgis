@@ -23,6 +23,8 @@ Geoinformation, Programming, Spatial Databases, Network, Frontend and Backend ar
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://qgis.org/en/site/#" target="_blank" rel="noreferrer"><img src="https://qgis.org/en/_downloads/c18208e3a0be20a4386fed0e1be4727d/qgis-icon128.svg" width="36" height="36" alt="QGIS" /></a>
+<a href="https://www.openstreetmap.org/" target="_blank" rel="noreferrer"><img src="https://wiki.openstreetmap.org/w/images/thumb/7/79/Public-images-osm_logo.svg/180px-Public-images-osm_logo.svg.png" width="36" height="36" alt="OSM" /></a>
 </p>
 
 
